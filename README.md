@@ -14,3 +14,7 @@ Build your own IoT mobile application **with minimum coding efforts**
 To be familiar with common app features try out our ThingsBoard Live mobile application available on Google Play and App Store
 - [Get it on Google Play](https://play.google.com/store/apps/details?id=org.thingsboard.demo.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [Download on the App Store](https://apps.apple.com/us/app/thingsboard-live/id1594355695?itsct=apps_box_badge&amp;itscg=30200)
+
+##Thimgs board app in github
+-[go to repository](https://github.com/thingsboard/flutter_thingsboard_pe_app)
+-[learn how to getting started](https://thingsboard.io/docs/pe/mobile/getting-started/)
