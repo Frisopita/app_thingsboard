@@ -15,10 +15,10 @@ To be familiar with common app features try out our ThingsBoard Live mobile appl
 - [Get it on Google Play](https://play.google.com/store/apps/details?id=org.thingsboard.demo.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [Download on the App Store](https://apps.apple.com/us/app/thingsboard-live/id1594355695?itsct=apps_box_badge&amp;itscg=30200)
 
-## Things board app in github
+## Things board app in GitHub
 Getting Started
 - [Repository](https://github.com/thingsboard/flutter_thingsboard_pe_app) - go to repository
-- [Guide etting started](https://thingsboard.io/docs/pe/mobile/getting-started/) - Getting started with ThingsBoard PE Mobile Application
+- [Guide getting started](https://thingsboard.io/docs/pe/mobile/getting-started/) - Getting started with ThingsBoard PE Mobile Application
 
 ## Important Note
-- For clone this respository do in your cmd: git clone -b release/1.0.7 https://github.com/thingsboard/flutter_thingsboard_pe_app.git
+- To clone this repository do in your cmd: git clone -b release/1.0.7 https://github.com/thingsboard/flutter_thingsboard_pe_app.git
