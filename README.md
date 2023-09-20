@@ -17,5 +17,8 @@ To be familiar with common app features try out our ThingsBoard Live mobile appl
 
 ## Things board app in github
 Getting Started
--[go to repository](https://github.com/thingsboard/flutter_thingsboard_pe_app)
--[learn how to getting started](https://thingsboard.io/docs/pe/mobile/getting-started/)
+- [Repository](https://github.com/thingsboard/flutter_thingsboard_pe_app) - go to repository
+- [Guide etting started](https://thingsboard.io/docs/pe/mobile/getting-started/) - Getting started with ThingsBoard PE Mobile Application
+
+## Important Note
+- For clone this respository do in your cmd: git clone -b release/1.0.7 https://github.com/thingsboard/flutter_thingsboard_pe_app.git
